@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vivi 学术 PPT"
+  short_description: "Clear academic arguments, paired evidence and restrained design"
+  default_prompt: "Use $vivi-academic-ppt to structure, design, and review my academic presentation."
